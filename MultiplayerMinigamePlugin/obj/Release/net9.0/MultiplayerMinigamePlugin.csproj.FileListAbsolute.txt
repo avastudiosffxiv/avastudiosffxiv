@@ -1,0 +1,14 @@
+D:\Visual Studio\MultiplayerMinigamePlugin\bin\Release\net9.0\MultiplayerMinigamePlugin.exe
+D:\Visual Studio\MultiplayerMinigamePlugin\bin\Release\net9.0\MultiplayerMinigamePlugin.deps.json
+D:\Visual Studio\MultiplayerMinigamePlugin\bin\Release\net9.0\MultiplayerMinigamePlugin.runtimeconfig.json
+D:\Visual Studio\MultiplayerMinigamePlugin\bin\Release\net9.0\MultiplayerMinigamePlugin.dll
+D:\Visual Studio\MultiplayerMinigamePlugin\bin\Release\net9.0\MultiplayerMinigamePlugin.pdb
+D:\Visual Studio\MultiplayerMinigamePlugin\obj\Release\net9.0\MultiplayerMinigamePlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\MultiplayerMinigamePlugin\obj\Release\net9.0\MultiplayerMinigamePlugin.AssemblyInfoInputs.cache
+D:\Visual Studio\MultiplayerMinigamePlugin\obj\Release\net9.0\MultiplayerMinigamePlugin.AssemblyInfo.cs
+D:\Visual Studio\MultiplayerMinigamePlugin\obj\Release\net9.0\MultiplayerMinigamePlugin.csproj.CoreCompileInputs.cache
+D:\Visual Studio\MultiplayerMinigamePlugin\obj\Release\net9.0\MultiplayerMinigamePlugin.dll
+D:\Visual Studio\MultiplayerMinigamePlugin\obj\Release\net9.0\refint\MultiplayerMinigamePlugin.dll
+D:\Visual Studio\MultiplayerMinigamePlugin\obj\Release\net9.0\MultiplayerMinigamePlugin.pdb
+D:\Visual Studio\MultiplayerMinigamePlugin\obj\Release\net9.0\MultiplayerMinigamePlugin.genruntimeconfig.cache
+D:\Visual Studio\MultiplayerMinigamePlugin\obj\Release\net9.0\ref\MultiplayerMinigamePlugin.dll
